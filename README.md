@@ -1,24 +1,29 @@
-# README
+# first_rails_application
+First Microverse Ruby on Rails project. In this project, we learn how to setup the first Ruby on Rails app following tutorial from [Installing Rails](https://www.theodinproject.com/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails) web page.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
+- Ruby on Rails
 
-Things you may want to cover:
+## Authors
 
-* Ruby version
-2.7.2
-* System dependencies
+👤 **wajahat akram**
 
-* Configuration
+- Github: [@wajahat414](https://github.com/wajahat414)
+- Twitter: [@wajahat414](https://twitter.com/wajahat414)
+- Linkedin: [@wajahat414](https://www.linkedin.com/in/wajahat414)
 
-* Database creation
+## Show your support
 
-* Database initialization
+Give a ⭐️ if you like this project!
 
-* How to run the test suite
+## Acknowledgments
 
-* Services (job queues, cache servers, search engines, etc.)
+- This project was originally taken from [The Odin project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails).
+- The project was inspired by the [Microverse](https://www.microverse.org/) program.
 
-* Deployment instructions
+## 📝 License
 
-* ...
+This project is [MIT](/LICENSE) licensed.
+
+## Issues
+please Addrss any issues at [issues page](https://github.com/wajahat414/my_first_rails_app/issues)
