@@ -23,7 +23,7 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](/LICENSE) licensed.
 
 ## Issues
 please Addrss any issues at [issues page](https://github.com/wajahat414/my_first_rails_app/issues)
