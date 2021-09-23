@@ -1,4 +1,4 @@
-# first_rails_app_for_Microverse
+# first_rails_application
 First Microverse Ruby on Rails project. In this project, we learn how to setup the first Ruby on Rails app following tutorial from [Installing Rails](https://www.theodinproject.com/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails) web page.
 
 ## Built With
